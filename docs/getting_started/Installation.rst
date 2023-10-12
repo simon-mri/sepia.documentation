@@ -1,7 +1,10 @@
 .. _gettingstart-installation:
 
-Installation/Setp up
+Installation/Set up
 ====================
+
+SEPIA can be installed from here: https://github.com/kschan0214/sepia
+(go to "Releases">"Latest" then download the Source Code under "Assets")
 
 Prerequisite  
 ------------
